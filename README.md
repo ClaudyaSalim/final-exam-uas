@@ -22,7 +22,9 @@ Bagian Essay
 
 
 
-3. Pernyataan A benar karena Red-Black Tree adalah salah satu jenis binary search tree, di mana node yang lebih kecil akan menjadi cabang bagian kiri.
+3. Pernyataan A dan B yang benar
+
+   Pernyataan A benar karena Red-Black Tree adalah salah satu jenis binary search tree, di mana node yang lebih kecil akan menjadi cabang bagian kiri.
 
    Pernyataan B benar karena sesuai dengan namanya, Red-Black Tree merupakan jenis tree yang melakukan balancing dengan memberi warna hitam dan merah.
 
@@ -32,7 +34,9 @@ Bagian Essay
    
    
    
-4. Pernyataan A benar karena Red-Black Tree dan AVL tree merupakan jenis binary search tree yang bisa otomatis melakukan balancing sendiri dengan kondisinya.
+4. Pernyataan C yang salah
+
+   Pernyataan A benar karena Red-Black Tree dan AVL tree merupakan jenis binary search tree yang bisa otomatis melakukan balancing sendiri dengan kondisinya.
 
    Pernyataan B benar karena Heap dan Red-Black Tree adalah jenis tree yang memiliki maksimal 2 anak untuk setiap node, yang merupakan ciri-ciri dari binary tree.
    
