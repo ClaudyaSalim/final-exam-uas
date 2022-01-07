@@ -6,11 +6,19 @@ Bagian Essay
 
 
 
-1. a. 
-   
-   b.
+1. a.![20220107_225152](https://user-images.githubusercontent.com/88886593/148576009-7162b944-3ff1-4fe3-8c20-02ee61b0ca31.jpg)
 
+     ![20220107_225005](https://user-images.githubusercontent.com/88886593/148575970-5ad62d6b-13be-4b0c-b3a8-4f8b19413e55.jpg)
 
+     ![20220107_225022](https://user-images.githubusercontent.com/88886593/148570476-50d4d71d-7417-42eb-b61e-c1c714204ef2.jpg)
+  
+   b.![20220107_233928](https://user-images.githubusercontent.com/88886593/148578353-1ce5b038-3d65-4491-9a19-dc54836ff55e.jpg)
+
+     ![20220107_233944](https://user-images.githubusercontent.com/88886593/148578397-33608853-9444-4b86-b115-51b804e38b26.jpg)
+     
+     ![20220107_234040](https://user-images.githubusercontent.com/88886593/148578444-569175ff-914f-4b09-9fd0-939127f67e13.jpg)
+  
+  
 
 2. ![Screenshot (1419)](https://user-images.githubusercontent.com/88886593/148524114-13669df7-fed8-4f0c-a3b0-62db4802377c.png)
 
